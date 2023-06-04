@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NameList
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="area-patterns">
+  <strings>
+	<!-- PARKS -->
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} National Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Copse Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Down Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Downs Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Heath Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Hill Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Hills Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Marsh Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Marshes Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Meadow Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Moor Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Vale Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Valley Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Woods Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Wood Nature Reserve</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Hill Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Hills Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Vale Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Valley Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Wood Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Woods Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Forest Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Woods</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Woods</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="NatureReserve">{0} Woods</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoo</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoo</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoo</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoo</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Wildlife Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Wildlife Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Wildlife Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoological Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Zoo">{0} Zoological Gardens</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Adventureland</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Adventure Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Adventure Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Discovery Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Family Theme Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Leisure Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Theme Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Theme Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Theme Park and Resort</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="AmusementPark">{0} Wonderland</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Botanical Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Garden</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Garden</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Gardens</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Valley Country Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Generic">{0} Valley Park</LocalizedString>
+	
+	<!-- INDUSTRY -->
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Trading Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Trading Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Trading Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Business Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Business Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Park</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Industry">{0} Industrial Park</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Hill Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Park Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">Lower {0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">Higher {0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">New {0} Farm</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Farm Estate</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Farming">{0} Manor Farm</LocalizedString>
+
+	
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Plantation</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Plantation</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Plantation</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Plantation</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Plantations</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Forest</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Wood</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Forestry">{0} Woods</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Refinery</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Refinery</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Refinery</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Oil Processing Facility</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Oil Field</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Refining Site</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Oil">{0} Works</LocalizedString>
+		
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Pit</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Pit</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Quarries</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Quarries</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Quarry</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Quarry</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Hill Quarry</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Rocks Quarry</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Mine</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Mine</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Mines</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Mines</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Mining District</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Works</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="Ore">{0} Works</LocalizedString>
+
+	<!-- UNIVERSITIES -->
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} Academy</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} Academy</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} College</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} College</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} College of Science</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} Medical School</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">{0} School of Engineering</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">New College, {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="TradeSchool">University Technical College {0}</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} Academy of Music</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} Business School</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} Institute of Arts</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} College</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} College</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} College</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} College of Art</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">King’s College {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} School of Economics and Political Sciences</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} School of Music and Drama</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="LiberalArts">{0} School of Art</LocalizedString>
+	
+	<LocalizedString identifier="AREA_PATTERN" key="University">City University, {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">Imperial College {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">University College {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">University of {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">University of {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">University of {0}</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">{0} University</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">{0} University</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">{0} University</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">{0} New University</LocalizedString>
+	<LocalizedString identifier="AREA_PATTERN" key="University">{0} Metropolitan University</LocalizedString>
+	
+  </strings>
+</NameList>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<BlackList 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="blacklist">
+  <strings>
+    <LocalizedStringKey identifier="DISTRICT_PATTERN" />
+	<LocalizedStringKey identifier="DISTRICT_NAME" />
+		
+	<LocalizedStringKey identifier="AREA_NAME" key="AmusementPark"/>
+	
+	<LocalizedStringKey identifier="AREA_PATTERN" key="AmusementPark"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="NatureReserve"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Zoo"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Generic"/>
+	
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Industry"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Farming"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Forestry"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Oil"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="Ore"/>
+	
+	<LocalizedStringKey identifier="AREA_PATTERN" key="TradeSchool"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="LiberalArts"/>
+	<LocalizedStringKey identifier="AREA_PATTERN" key="University"/>
+	
+  </strings>
+</BlackList>
